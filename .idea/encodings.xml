@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/online/bogradio/bogaradio/fragments/QuickContactFragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/button_action_red.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/button_action_red_touch.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/dialog_button.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gradient_bg.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/gradient_bg_hover.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_add.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_alphabets.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_calendar.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_content_add.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_content_inbox.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_design.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_develop.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_edit.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_home.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_home_54.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_home_87.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_action_new.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/selector_button_red.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/selector_check.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/background_tabs_diagonal.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/contact.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/fragment_quickcontact.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_chrome.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_gmail.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_gmaps.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_gplus.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/tabs_pattern.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/tabs_pattern_diagonal.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/custom_tab.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_quick_contact.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_quickcontact.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/libequalizer" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/libequalizer/src/main/java/online/bogradio/libequal/EqualizerView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/libequalizer/src/main/res/layout" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/libequalizer/src/main/res/values" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/libra" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/library" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/java/online/bogradio/mylibrary/PromotedActionsLibrary.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/AndroidManifest.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/drawable" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/drawable-hdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/drawable-mdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/drawable-xhdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/drawable-xxhdpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/layout" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/menu" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/values" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/mylibrary/src/main/res/values-w820dp" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/pagertabstrip/src/main/java/online/bogradio/pagertabstrip/PagerSlidingTabStrip.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/pagertabstrip/src/main/res/drawable" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/pagertabstrip/src/main/res/layout" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/pagertabstrip/src/main/res/values" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

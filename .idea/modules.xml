@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bogaradio.iml" filepath="$PROJECT_DIR$/Bogaradio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libequalizer/libequalizer.iml" filepath="$PROJECT_DIR$/libequalizer/libequalizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libra/libra.iml" filepath="$PROJECT_DIR$/libra/libra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pagertabstrip/pagertabstrip.iml" filepath="$PROJECT_DIR$/pagertabstrip/pagertabstrip.iml" />
+    </modules>
+  </component>
+</project>

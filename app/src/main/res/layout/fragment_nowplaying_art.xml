@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/frame"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_weight="1">
+
+
+    <online.bogradio.bogaradio.views.SquareImageView
+        android:id="@+id/art"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/nowplaying_art"
+        />
+
+
+
+
+
+     <!--
+    <online.bogradio.bogaradio.visualizer.VisualizerView
+        android:id="@+id/visualizerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </online.bogradio.bogaradio.visualizer.VisualizerView>
+
+    -->
+<!--
+    <online.bogradio.bogaradio.views.SquareView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/nowplaying_art_tint"
+        />
+-->
+
+
+<!--
+    <online.bogradio.bogaradio.views.SquareImageView
+        android:id="@+id/back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/nowplaying_art_back"
+        />
+-->
+<!--
+    <include layout="@layout/shadow_bottom_small"/>
+-->
+</FrameLayout>
